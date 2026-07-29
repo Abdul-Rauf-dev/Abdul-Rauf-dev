@@ -37,7 +37,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 2026 Roadmap</h3>
+      <h3>🎯 Roadmap</h3>
       <ul>
         <li>✅ Master React.js & Hooks Ecosystem</li>
         <li>🔄 Expand backend skills: <b>Node.js & Express.js</b></li>
@@ -135,25 +135,31 @@
 
 <div align="center">
 
+<!-- Main Stats & Top Languages -->
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rauf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rauf-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rauf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul Rauf's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rauf-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul-Rauf-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Abdul-Rauf-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Collapsible GitHub Trophies -->
 <details>
-<summary><b>🏆 Show GitHub Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rauf-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+  <summary><b>🏆 Click to View GitHub Trophies</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rauf-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </p>
 </details>
 
+<br/>
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rauf-dev&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rauf-dev&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 </div>
