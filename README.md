@@ -6,7 +6,7 @@
 ### 🚀 Frontend Developer | React Explorer | BSCS Student @ IUB
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;BSCS+Student+at+IUB;Aspiring+MERN+Stack+Engineer;Web+Development+Intern+at+MGC;NAVTTC+Certified+Trainee;Always+Building+%26+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;BSCS+Student+at+IUB;Aspiring+MERN+Stack+Engineer;Web+Development+Intern+at+MGC;NAVTTC+Certified+Trainee;Office+Management+Professional;Always+Building+%26+Learning!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,8 +14,8 @@
 <!-- Dynamic Quick Badges -->
 <img src="https://img.shields.io/badge/Focus-Frontend_Development-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/University-IUB-0066FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Trainee-NAVTTC_Web_%26_Mobile-0088FF?style=for-the-badge&logo=codecademy&logoColor=white" />
-<img src="https://img.shields.io/badge/Internship-MGC_Web_Internee-0055FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Diploma-Office_Management_(PBTE)-0088FF?style=for-the-badge&logo=microsoftword&logoColor=white" />
+<img src="https://img.shields.io/badge/Trainee-NAVTTC_Web_%26_Mobile-0055FF?style=for-the-badge&logo=codecademy&logoColor=white" />
 
 </div>
 
@@ -31,9 +31,10 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🎓 <b>Education:</b> BS Computer Science Student at <b>The Islamia University of Bahawalpur (IUB)</b></li>
+        <li>📜 <b>Diploma:</b> 6-Month Office Management (Punjab Board of Technical Education, Lahore)</li>
         <li>📜 <b>Certifications:</b> NAVTTC Web & Mobile Dev Trainee</li>
         <li>💼 <b>Current Role:</b> Web Development Intern @ <b>MGC</b></li>
-        <li>💻 <b>Core Specialty:</b> Responsive UI/UX & Web Apps</li>
+        <li>🏢 <b>Industry Experience:</b> Office Management @ Jilani Polymer Industry</li>
         <li>🌱 <b>Current Focus:</b> Deep-diving into <b>React.js Architecture</b></li>
         <li>🛠️ <b>Version Control:</b> Git & GitHub workflows</li>
       </ul>
@@ -63,18 +64,28 @@
       Focused on foundational computer science principles, software engineering, algorithms, and web application development.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏅 Web & Mobile Application Development</h4>
-      <p><b>Program:</b> NAVTTC (6 Months Training)<br/>Hands-on development covering HTML5, CSS3, JavaScript, React.js, Git, and GitHub.</p>
+      <h4>📑 Office Management (6 Months Diploma)</h4>
+      <p><b>Board:</b> Punjab Board of Technical Education (PBTE), Lahore<br/>
+      Professional training in administrative workflows, documentation, data entry, MS Office Suite, and professional communication.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💼 Web Development Internship</h4>
-      <p><b>Company:</b> MGC (Muhammad Graphic & Coding)<br/>Practical application of front-end web technologies and component-based UI design.</p>
+      <h4>🏅 Web & Mobile Application Development</h4>
+      <p><b>Program:</b> NAVTTC (6 Months Training)<br/>
+      Hands-on development covering HTML5, CSS3, JavaScript, React.js, Git, and GitHub.</p>
     </td>
     <td width="50%" valign="top">
+      <h4>💼 Web Development Internship</h4>
+      <p><b>Company:</b> MGC (Muhammad Graphic & Coding)<br/>
+      Practical application of front-end web technologies and component-based UI design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
       <h4>📈 Lead Generation & Market Research</h4>
-      <p><b>Duration:</b> 2 Months Practical Experience<br/>B2B lead acquisition, research, and client database management.</p>
+      <p><b>Duration:</b> 2 Months Practical Experience<br/>
+      B2B lead acquisition, research, and client database management using LinkedIn and web automation resources.</p>
     </td>
   </tr>
 </table>
@@ -101,6 +112,15 @@
 > * Worked with **Git and GitHub** for version control and project collaboration.
 > * Participated in real-world development tasks and project management workflows.
 > * Followed clean coding practices and component-based development.
+
+<br/>
+
+> ### 🏢 **Office Management Executive** — *Jilani Polymer Industry, Lahore*
+> **Duration:** 3 Months
+> * Handled daily office operations, inventory tracking, and administrative documentation.
+> * Prepared reports, recorded transactional data, and managed internal correspondence.
+> * Utilized MS Office (Excel, Word) for record-keeping and workflow organization.
+> * Streamlined communication between departments and external stakeholders.
 
 <br/>
 
@@ -133,10 +153,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Tools & Workflow**
+### **Tools & Productivity**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn_Research-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
