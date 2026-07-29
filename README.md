@@ -3,18 +3,19 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=220&section=header&text=Abdul%20Rauf&fontSize=70&fontAlignY=35&animation=fadeIn&stroke=000000&strokeWidth=0" width="100%"/>
 
-### 🚀 Frontend Developer | React Explorer | BSCS Student
+### 🚀 Frontend Developer | React Explorer | BSCS Student @ IUB
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+MERN+Stack+Engineer;Web+Development+Intern+at+MGC;Always+Building+%26+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;BSCS+Student+at+IUB;Aspiring+MERN+Stack+Engineer;Web+Development+Intern+at+MGC;NAVTTC+Certified+Trainee;Always+Building+%26+Learning!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Dynamic Quick Badges -->
 <img src="https://img.shields.io/badge/Focus-Frontend_Development-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/University-IUB-0066FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Trainee-NAVTTC_Web_%26_Mobile-0088FF?style=for-the-badge&logo=codecademy&logoColor=white" />
 <img src="https://img.shields.io/badge/Internship-MGC_Web_Internee-0055FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Degree-BS_Computer_Science-002288?style=for-the-badge&logo=google-scholar&logoColor=white" />
 
 </div>
 
@@ -29,7 +30,8 @@
     <td width="50%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 <b>Education:</b> BS Computer Science Student</li>
+        <li>🎓 <b>Education:</b> BS Computer Science Student at <b>The Islamia University of Bahawalpur (IUB)</b></li>
+        <li>📜 <b>Certifications:</b> NAVTTC Web & Mobile Dev Trainee</li>
         <li>💼 <b>Current Role:</b> Web Development Intern @ <b>MGC</b></li>
         <li>💻 <b>Core Specialty:</b> Responsive UI/UX & Web Apps</li>
         <li>🌱 <b>Current Focus:</b> Deep-diving into <b>React.js Architecture</b></li>
@@ -48,6 +50,67 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 BS Computer Science (BSCS)</h4>
+      <p><b>Institution:</b> The Islamia University of Bahawalpur (IUB)<br/>
+      Focused on foundational computer science principles, software engineering, algorithms, and web application development.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏅 Web & Mobile Application Development</h4>
+      <p><b>Program:</b> NAVTTC (6 Months Training)<br/>Hands-on development covering HTML5, CSS3, JavaScript, React.js, Git, and GitHub.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💼 Web Development Internship</h4>
+      <p><b>Company:</b> MGC (Muhammad Graphic & Coding)<br/>Practical application of front-end web technologies and component-based UI design.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Lead Generation & Market Research</h4>
+      <p><b>Duration:</b> 2 Months Practical Experience<br/>B2B lead acquisition, research, and client database management.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+> ### 🌐 **Web & Mobile Application Development Trainee** — *NAVTTC*
+> **Duration:** 6 Months
+> * Completed professional training in Web & Mobile Application Development under the NAVTTC program.
+> * Learned **HTML5, CSS3, JavaScript, React.js, Git, and GitHub**.
+> * Developed responsive websites and interactive web applications from scratch.
+> * Built multiple frontend projects using modern web technologies.
+> * Strengthened problem-solving and debugging skills through practical assignments.
+> * Practiced version control and collaborative development using Git and GitHub.
+
+<br/>
+
+> ### 💼 **Web Development Intern** — *MGC (Muhammad Graphic & Coding)*
+> **Repository:** [Abdul-Rauf-dev/MGC-Web-Internee](https://github.com/Abdul-Rauf-dev/MGC-Web-Internee)
+> * Developed responsive web applications using **HTML, CSS, JavaScript, and React.js**.
+> * Improved UI/UX and implemented interactive user interfaces.
+> * Worked with **Git and GitHub** for version control and project collaboration.
+> * Participated in real-world development tasks and project management workflows.
+> * Followed clean coding practices and component-based development.
+
+<br/>
+
+> ### 📈 **Lead Generation Executive**
+> **Duration:** 2 Months
+> * Conducted **B2B lead generation** and online market research.
+> * Identified potential clients using **LinkedIn** and other online intelligence platforms.
+> * Collected, verified, and structured business contact information into organized databases.
+> * Maintained lead databases using spreadsheets for outreach preparation.
+> * Improved professional communication, research, and data analytics skills.
 
 ---
 
@@ -74,17 +137,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn_Research-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
-
----
-
-## 💼 Internship Experience
-
-> ### 🌟 **Web Development Intern** — *MGC (Muhammad Graphic & Coding)*
-> * **UI/UX Engineering:** Built clean, modern, and high-performance responsive web pages using modern HTML5, CSS3, and JavaScript.
-> * **Component-Based Dev:** Practical implementations of modular components using **React.js**.
-> * **Collaboration & Version Control:** Leveraged Git/GitHub for structured code commits and project tracking.
 
 ---
 
